@@ -53,11 +53,10 @@
 🎧  _Feature-rich music bot with YouTube integration_
 
 -   Real-time music streaming & queue management
-    
 -   Advanced audio controls (loop, skip, pause)
-    
 -   Message moderation & interaction system  
-    📌  **Tech Stack:**  Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
+    📌  **Tech Stack:**
+    Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 
 ## 📈 GitHub Stats
 <!--
@@ -65,9 +64,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miskamero&layout=compact&theme=vision-friendly-dark)](https://github.com/miskamero)
 
-## 💬 Fun Fact
+## 💬 Fun Facts
 
-> "I once optimized a build process so much that the .env file felt lonely"  
+> "Never use JSON databases for user authentication" -Klinoff Master  
 > 🎲 Currently obsessed with low level coding
 > 🎮 Secret Klinoff projects exist that will publish in the coming years
 

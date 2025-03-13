@@ -1,19 +1,29 @@
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      output/snake.svg
-      output/snake-dark.svg?palette=github-dark
-      output/snake.gif?color_snake=#4CAF50&color_dots=#1a1a1a,#333333,#4d4d4d,#666666,#808080
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/snake.svg
+            output/snake-dark.svg?palette=github-dark
+            output/snake.gif?color_snake=#4CAF50&color_dots=#1a1a1a,#333333,#4d4d4d,#666666,#808080
+
+      - name: Push to Repository
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          default_author: github_actions
+          message: 'Update contribution snake'
+          add: |
+            output/snake.svg
+            output/snake-dark.svg
+            output/snake.gif
