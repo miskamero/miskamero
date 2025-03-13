@@ -1,7 +1,7 @@
 # Hello there, I'm Miska! 👋
 
 🚀 *Exceptional Developer | Tech Explorer | Obscure Tech Connoisseur*  
-💡 *Powered by Klinoff Power into code since 2022*  
+💡 *Turning Klinoff Power into code since 2022*  
 🌱 **Current Focus:** C & C# Mastery
 
 ## 🛠️ Tech Stack
