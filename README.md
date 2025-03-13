@@ -34,8 +34,10 @@
 🚀 *E-commerce platform for off-road enthusiasts*  
 - Full shopping cart functionality with purchase system  
 - Local server deployment via XAMPP  
-- Product management & inventory system  
-📌 **Tech Stack:** PHP 🐘 | MySQL 🗄️ | XAMPP  
+- Product management & inventory system
+
+📌 **Tech Stack:** 
+PHP 🐘 | MySQL 🗄️ | XAMPP  
 <!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffRoad?style=flat-square)](https://github.com/miskamero/KlinoffRoad) -->
 
 
@@ -45,7 +47,8 @@
 - Multi-service itinerary management (flights, hotels, weather, attractions) 
 - User accounts with options to save trips 
 - Complex backend with self-hosted Flask APIs  
-- Real-time data aggregation from 5+ external APIs  
+- Real-time data aggregation from 5+ external APIs
+
 📌 **Tech Stack:**  
 React ⚛️ | Python 🐍 | Flask | Firebase 🔥 | SkyScanner API 🌐 | TripAdvisor API | Geoapify API  
 <!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffTravels?style=flat-square)](https://github.com/miskamero/KlinoffTravels) -->
@@ -58,8 +61,9 @@ React ⚛️ | Python 🐍 | Flask | Firebase 🔥 | SkyScanner API 🌐 | TripA
 
 -   Real-time music streaming & queue management
 -   Advanced audio controls (loop, skip, pause)
--   Message moderation & interaction system  
-📌 **Tech Stack:**
+-   Message moderation & interaction system
+
+📌 **Tech Stack:** 
 Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 
 ## 📈 GitHub Stats
