@@ -52,7 +52,7 @@
 [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffTravels?style=flat-square)](https://github.com/miskamero/KlinoffTravels)
 
 
-### 3️⃣  [KlinoffMusic](https://github.com/miskamero/KlinoffMusic)  🎵
+### 3️⃣  [KlinoffMusic](https://github.com/miskamero/Klinoff-Music)  🎵
 
 **Discord's ultimate sound machine**  
 🎧  _Feature-rich music bot with YouTube integration_
