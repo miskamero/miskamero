@@ -4,8 +4,6 @@
 💡 *Powered by Klinoff Power into code since 2022*  
 🌱 **Current Focus:** C & C# Mastery
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=miskamero&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
-
 ## 🛠️ Tech Stack
 
 **Frontend**  
@@ -72,6 +70,8 @@ Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miskamero&layout=compact&theme=vision-friendly-dark)](https://github.com/miskamero)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=miskamero&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
+
 ## 💬 Fun Facts
 
 > "Never use JSON databases for user authentication" -Klinoff Master  
@@ -81,6 +81,8 @@ Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 ## 📫 Let's Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/miskamero/)
+
+## 🐍 Snake
 
 ![Snake Light](https://github.com/miskamero/miskamero/blob/output/snake.svg#gh-light-mode-only)
 ![Snake Dark](https://github.com/miskamero/miskamero/blob/output/snake-dark.svg#gh-dark-mode-only)
