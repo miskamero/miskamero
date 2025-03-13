@@ -75,7 +75,7 @@ Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 ## 💬 Fun Facts
 
 > "Never use JSON databases for user authentication" -Klinoff Master  
-> 🎲 Currently obsessed with low level coding
+> 🎲 Currently obsessed with low level coding  
 > 🎮 Secret Klinoff projects exist that will publish in the coming years
 
 ## 📫 Let's Connect
