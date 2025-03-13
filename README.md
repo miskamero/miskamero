@@ -36,7 +36,7 @@
 - Local server deployment via XAMPP  
 - Product management & inventory system
 
-📌 **Tech Stack:** 
+📌 **Tech Stack:**  
 PHP 🐘 | MySQL 🗄️ | XAMPP  
 <!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffRoad?style=flat-square)](https://github.com/miskamero/KlinoffRoad) -->
 
@@ -63,7 +63,7 @@ React ⚛️ | Python 🐍 | Flask | Firebase 🔥 | SkyScanner API 🌐 | TripA
 -   Advanced audio controls (loop, skip, pause)
 -   Message moderation & interaction system
 
-📌 **Tech Stack:** 
+📌 **Tech Stack:**  
 Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 
 ## 📈 GitHub Stats
