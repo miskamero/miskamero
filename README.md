@@ -10,14 +10,19 @@
 
 **Frontend**  
 🖥️ React | Next.js | TypeScript | Sass | Tailwind CSS
+
 **Backend**  
 ⚙️ Node.js | SQL | GraphQL  | Flask
+
 **Misc**
 🏗  Tauri | Electron | C | C# | Python
+
 **Database**  
 🗃️ PostgreSQL | MongoDB | Firebase  
+
 **DevOps**  
 ☁️ Docker | Netlify | GitHub Actions
+
 **Tools**  
 🔧 Git | Figma | Postman
 
