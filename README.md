@@ -14,7 +14,7 @@
 **Backend**  
 ⚙️ Node.js | SQL | GraphQL  | Flask
 
-**Misc**
+**Misc**  
 🏗  Tauri | Electron | C | C# | Python
 
 **Database**  
