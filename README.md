@@ -68,11 +68,9 @@ Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
 <!--
 [![Miska's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miskamero&show_icons=true&theme=radical)](https://github.com/miskamero)-->
 
-<div style="text-align: center;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miskamero&layout=compact&theme=vision-friendly-dark)](https://github.com/miskamero)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miskamero&layout=compact&theme=vision-friendly-dark)](https://github.com/miskamero)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=miskamero&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=miskamero&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
 ## 💬 Fun Facts
 
