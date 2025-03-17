@@ -1,33 +1,40 @@
 # Hello there, I'm Miska! 👋
 
+I am an enthusiastic programmer with many practical projects, such as my travel itinerary planner, [KlinoffTravels](https://github.com/miskamero/KlinoffTravels), and my e-commerce platform, [KlinoffRoad](https://github.com/miskamero/KlinoffRoad).
+
 🚀 *Exceptional Developer | Tech Explorer | Obscure Tech Connoisseur*  
 💡 *Turning Klinoff Power into code since 2022*  
-🌱 **Current Focus:** C & C# Mastery
+🌱 *Currently learning:* C & C#
 
 ## 🛠️ Tech Stack
+
+<!-- Short description of stuff. -->
+<!-- description of stuff: -->
+
+I mostly do full-stack development, using React. I like to explore new tools and technologies. For example, I have been experimenting using Expo and Tauri to make mobile and desktop apps.
 
 ### **Frontend**  
 🖥️ React | Next.js | TypeScript | Sass | Tailwind CSS
 
-**Backend**  
+### **Backend**  
 ⚙️ Node.js | SQL | GraphQL  | Flask
 
-**Misc**  
+### **Misc**  
 🏗  Tauri | Electron | C | C# | Python
 
-**Database**  
+### **Database**  
 🗃️ PostgreSQL | MongoDB | Firebase  
 
-**DevOps**  
+### **DevOps**  
 ☁️ Docker | Netlify | GitHub Actions
 
-**Tools**  
+### **Tools**  
 🔧 Git | Figma | Postman
 
 ## 🌟 Featured Projects
 
 
-### 1️⃣ [KlinoffRoad](https://github.com/miskamero/KlinoffRoad) 🛒 
+### [KlinoffRoad](https://github.com/miskamero/KlinoffRoad) 🛒 
 **Rev up your off-road adventures**  
 🚀 *E-commerce platform for off-road enthusiasts*  
 - Full shopping cart functionality with purchase system  
@@ -39,7 +46,7 @@ PHP 🐘 | MySQL 🗄️ | XAMPP
 <!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffRoad?style=flat-square)](https://github.com/miskamero/KlinoffRoad) -->
 
 
-### 2️⃣ [KlinoffTravels](https://github.com/miskamero/KlinoffTravels) ✈️ 
+### [KlinoffTravels](https://github.com/miskamero/KlinoffTravels) ✈️ 
 **Your AI-powered travel companion**  
 🔥 *Full-stack travel planner with 10+ API integrations*  
 - Multi-service itinerary management (flights, hotels, weather, attractions) 
@@ -52,7 +59,7 @@ React ⚛️ | Python 🐍 | Flask | Firebase 🔥 | SkyScanner API 🌐 | TripA
 <!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffTravels?style=flat-square)](https://github.com/miskamero/KlinoffTravels) -->
 
 
-### 3️⃣  [KlinoffMusic](https://github.com/miskamero/Klinoff-Music)  🎵
+### [KlinoffMusic](https://github.com/miskamero/Klinoff-Music)  🎵
 
 **Discord's ultimate sound machine**  
 🎧  _Feature-rich music bot with YouTube integration_
