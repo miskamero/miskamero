@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
+### **Frontend**  
 🖥️ React | Next.js | TypeScript | Sass | Tailwind CSS
 
 **Backend**  
