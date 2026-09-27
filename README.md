@@ -84,14 +84,16 @@ PHP 🐘 | MySQL 🗄️ | XAMPP
 ### [KlinoffMusic](https://github.com/miskamero/Klinoff-Music)  🎵
 
 **Discord's ultimate sound machine**  
-🎧  _Feature-rich music bot with YouTube integration_
+🎧 _Feature-rich Discord music bot with YouTube integration_
 
--   Real-time music streaming & queue management
--   Advanced audio controls (loop, skip, pause)
--   Message moderation & interaction system
-
+- YouTube playback using URLs or search queries
+- Queue management with current-song and queue looping
+- Playback controls including pause, resume, skip, and stop
+- Automatic voice-channel joining and voice-channel management
+- Custom help, information, and server management commands
+- 28 automated unit tests covering music-player and YouTube extraction logic
 📌 **Tech Stack:**  
-Node.js 🟩 | Discord.js 🤖 | ytdl-core ▶️ | FFmpeg
+Python 🐍 | discord.py 🤖 | yt-dlp ▶️ | FFmpeg 🔊 | PyNaCl
 
 ---
 
