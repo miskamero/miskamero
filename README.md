@@ -107,7 +107,7 @@ I'm particularly interested in **low-level programming**, **game development**, 
 <!--
 [![Miska's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miskamero&show_icons=true&theme=radical)](https://github.com/miskamero)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miskamero&layout=compact&theme=vision-friendly-dark)](https://github.com/miskamero)
+![Top Languages](./profile/top-langs.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miskamero&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
 
