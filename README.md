@@ -92,6 +92,7 @@ PHP 🐘 | MySQL 🗄️ | XAMPP
 - Automatic voice-channel joining and voice-channel management
 - Custom help, information, and server management commands
 - 28 automated unit tests covering music-player and YouTube extraction logic
+
 📌 **Tech Stack:**  
 Python 🐍 | discord.py 🤖 | yt-dlp ▶️ | FFmpeg 🔊 | PyNaCl
 
