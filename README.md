@@ -65,7 +65,7 @@ A desktop application for managing and editing video clips, with a focus on simp
 - Native video playback using libmpv, including hardware accelerated decoding
 - Video trimming, FFmpeg exports, background processing
 
-📌 **Tech Stack:**
+📌 **Tech Stack:**  
 | Tauri | Rust 🦀 | React | TypeScript | SQLite | FFmpeg | libmpv
 
 
