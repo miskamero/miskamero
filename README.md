@@ -6,7 +6,6 @@ I'm an **ICT Engineering student and software developer** based in Finland, curr
 I enjoy building things that are actually useful! From full-stack web applications and APIs to desktop tools, game-related utilities, and whatever interesting technical rabbit hole I happen to fall into.
 
 
-🚀 *Exceptional Developer | Tech Explorer | Obscure Tech Connoisseur*  
 💡 *Turning Klinoff Power into code since 2022*  
 🌱 *Currently learning:* C, Linear Algebra & Vector Calculus
 
@@ -33,7 +32,7 @@ I'm primarily focused on software development, with experience across both web a
 ☁️ Docker | Netlify | GitHub Actions
 
 ### **Tools**  
-🔧 Git | Figma | Postman
+🔧 Git | Figma | Postman | FFmpeg
 
 ---
 
@@ -53,7 +52,21 @@ A desktop application for safely editing Valheim character save files.
 - Designed with a focus on keeping save-file editing safe and straightforward
 
 📌 **Tech Stack:**  
-Python 🐍 | PySide6 | PyQt | File Parsing | UnityPy
+Python 🐍 | PySide6 | Binary Parsing | Serialization
+
+
+### [Klipper](https://github.com/miskamero/Klipper) 🎬
+
+**Open-source video clip manager and editor**
+
+A desktop application for managing and editing video clips, with a focus on simplicity and speed. No reliance on cloud services.
+
+- Searchable clip library with external clipping software metadata integration
+- Native video playback using libmpv, including hardware accelerated decoding
+- Video trimming, FFmpeg exports, background processing
+
+📌 **Tech Stack:**
+| Tauri | Rust 🦀 | React | TypeScript | SQLite | FFmpeg | libmpv
 
 
 ### [KlinoffTravels](https://github.com/miskamero/KlinoffTravels) ✈️ 
@@ -65,20 +78,8 @@ Python 🐍 | PySide6 | PyQt | File Parsing | UnityPy
 - Real-time data aggregation from 5+ external APIs
 
 📌 **Tech Stack:**  
-React ⚛️ | Python 🐍 | Flask | Firebase 🔥 | SkyScanner API 🌐 | TripAdvisor API | Geoapify API  
+React ⚛️ | Python 🐍 | Flask | Firebase 🔥 | REST APIs 
 <!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffTravels?style=flat-square)](https://github.com/miskamero/KlinoffTravels) -->
-
-
-### [KlinoffRoad](https://github.com/miskamero/KlinoffRoad) 🛒 
-**Rev up your off-road adventures**  
-🚀 *E-commerce platform for off-road enthusiasts*  
-- Full shopping cart functionality with purchase system  
-- Local server deployment via XAMPP  
-- Product management & inventory system
-
-📌 **Tech Stack:**  
-PHP 🐘 | MySQL 🗄️ | XAMPP  
-<!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffRoad?style=flat-square)](https://github.com/miskamero/KlinoffRoad) -->
 
 
 ### [KlinoffMusic](https://github.com/miskamero/Klinoff-Music)  🎵
@@ -93,14 +94,29 @@ PHP 🐘 | MySQL 🗄️ | XAMPP
 - Custom help, information, and server management commands
 - 28 automated unit tests covering music-player and YouTube extraction logic
 
+
 📌 **Tech Stack:**  
 Python 🐍 | discord.py 🤖 | yt-dlp ▶️ | FFmpeg 🔊 | PyNaCl
+
+### [KlinoffRoad](https://github.com/miskamero/KlinoffRoad) 🛒 
+**Rev up your off-road adventures**  
+🚀 *E-commerce platform for off-road enthusiasts*  
+- Full shopping cart functionality with purchase system  
+- Local server deployment via XAMPP  
+- Product management & inventory system
+
+📌 **Tech Stack:**  
+PHP 🐘 | MySQL 🗄️ | XAMPP  
+<!-- [![Stars](https://img.shields.io/github/stars/miskamero/KlinoffRoad?style=flat-square)](https://github.com/miskamero/KlinoffRoad) -->
+
 
 ---
 
 ## 🔬 What I'm Interested In
 
 I'm particularly interested in **low-level programming**, **game development**, and **AI integration**. I enjoy exploring new technologies and frameworks, and I'm always looking for opportunities to contribute to open-source projects. I especially enjoy taking an idea that *probably shouldn't be as complicated as I'm about to make it* and turning it into a working project.
+
+My favourite projects have started with the same energy; "How hard could this possibly be?" and ended with me learning far more about the underlying technology than I ever expected.
 
 ---
 
